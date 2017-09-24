@@ -26,7 +26,7 @@ $ rvm install ruby-2.3
 ```
 
 ## 安装Pygments
-需要pip支持 [install pip] [https://pip.pypa.io/en/stable/installing/]
+需要pip支持 [install pip](https://pip.pypa.io/en/stable/installing/)
 
 ``` shell 
 $ python get-pip.py           
