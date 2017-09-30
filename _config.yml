@@ -21,7 +21,7 @@ email: abao883@gmail.com # add your Email address
 discus-identifier: aaBaO # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-107318915-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
