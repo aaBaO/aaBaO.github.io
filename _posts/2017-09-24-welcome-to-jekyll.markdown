@@ -3,6 +3,7 @@ layout: post
 title:  "里程碑！Welcome to Jekyll!"
 date:   2017-09-24 21:30:51 +0800
 categories: Jekyll
+tags: jekyll
 ---
 
 个人博客搭建完成！！记录下过程中的问题作为备忘，同时也分享给大家，
