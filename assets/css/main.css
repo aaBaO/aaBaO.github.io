@@ -813,6 +813,7 @@ pre code {
 .wrapper {
   max-width: 1250px;
   position: relative;
+  margin: 0 auto;
 }
 
 .post, .article-page {
@@ -1074,7 +1075,7 @@ footer .copyright {
 
 .post .post-content {
   padding: 1rem;
-  width: 70%;
+  width: 100%;
 }
 
 .post .post-content .post-date,
