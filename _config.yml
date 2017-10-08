@@ -18,7 +18,13 @@ linkedin: # add your Linkedin handle
 email: abao883@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: aaBaO # add your discus identifier
+# discus-identifier: aaBaO # add your discus identifier
+
+# Gitment 
+gitment_owner: aaBaO
+gitment_repo: aaBaO.github.io
+gitment_client_id: b3dc0d875126af1db1e5
+gitment_client_secret: dad848be975d1df7e26b72146b3a5bfe7a0d69e5
 
 # Tracker
 analytics: UA-107318915-1 # Google Analytics
