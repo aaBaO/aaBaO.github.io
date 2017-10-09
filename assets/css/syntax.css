@@ -186,6 +186,11 @@
 .highlight .o {
   color: #f92672;
 }
+
+.highlighter-rouge {
+  background:gray;
+  color:#f8f8f2; 
+}
 /*div[class="highlight"] > pre > code[class*="language-"] {*/
   /*background:black;*/
   /*color:#f8f8f2;*/
