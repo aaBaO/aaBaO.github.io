@@ -7,7 +7,7 @@ tags: CG Unity UGUI Shader
 ---
 
 ## 效果预览
-![效果图](http://oxujermt3.bkt.clouddn.com/iamge/shaderplayground/blur.gif)
+![效果图](http://oxujermt3.bkt.clouddn.com/iamge/shaderplayground/blur/blur.gif)
 
 这是一个简单的线性模糊的效果。不用RenderTexture。
 一个shader，一个脚本，一个材质球就能快速实现。
