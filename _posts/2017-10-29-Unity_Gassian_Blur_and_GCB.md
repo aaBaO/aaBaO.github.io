@@ -30,7 +30,7 @@ tags: Unity Shader GassionBlur
 
 这样理解的话，那么我们只要在渲染颜色的时候加上影响力权重就能实现高斯模糊的效果了！没错，那么这些权重值从哪里来呢？这些权重值就是由高斯函数计算出来的。
 
-这里我使用了[阮一峰大神的计算结果]()
+这里我使用了[阮一峰大神的计算结果](http://www.ruanyifeng.com/blog/2012/11/gaussian_blur.html)
 
 修改我们之前的Shader:
 ```glsl
