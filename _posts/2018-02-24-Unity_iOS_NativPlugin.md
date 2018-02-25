@@ -85,6 +85,18 @@ Unity引擎虽然很强大，但是很多的时候还是需要运行平台的原
 
 `HelloWorldSDKViewController.h`:
 ```objc
+#ifndef HelloWorldSDKViewController_h
+#define HelloWorldSDKViewController_h
+#import <Foundation/Foundation.h>
+@interface HelloWorldSDKViewController : UIViewController{
+    
+}
+@end
+#endif
+```
+
+`HelloWorldSDKViewController.m`:
+```objc
 #include "HelloWorldSDKViewController.h"
 
 @implementation HelloWorldSDKViewController
