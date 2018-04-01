@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 快速了解Unity2017新特性:Timeline
+title: 快速了解Unity2017新功能:Timeline
 date:   2018-04-01 14:51:00 +0800
 categories: UnityEngine
 tags: Unity2017 NewFeature Timeline
