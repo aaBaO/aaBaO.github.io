@@ -83,7 +83,6 @@ Timeline很周到，已经帮我们想好了解决方案。就是选中需要拼
 ## 总结
 
 Timeline还有很多强大的功能需要探索。总的来说用Timeline对非程序开发者来说是很方便的，一切都变得可视化，能很直观地控制效果。而且搭配`Cinemachine`可以达到电影效果一样的镜头控制。
-想要查看Demo工程的朋友可以从我的GitHub仓库里克隆到。
 
-这是demo工程的地址[ForkMeInGithub](https://github.com/aaBaO/DemoRepository.git)
+想要查看Demo工程的朋友可以从我的GitHub仓库里克隆到。 demo工程的地址[ForkMeInGithub](https://github.com/aaBaO/DemoRepository.git)
 
