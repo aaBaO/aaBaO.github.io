@@ -7,7 +7,7 @@ tags: Unity2017 NewFeature Timeline PlayableAPI
 ---
 
 ## 简介
-之前快速地学习了一下Timeline，需要详细回顾的兄弟可以回头看我的上一篇，[快速了解Timeline]()。
+之前快速地学习了一下Timeline，需要详细回顾的兄弟可以回头看我的上一篇，[快速了解Timeline](https://aabao.github.io/Unity2017_Timeline_Quickview/)。
 这里我们做快速的回顾，Timeline主要分为`TimelineInstance`和`TimelineAsset`，可以用Timeline PlayableDirector控制播放哪一个TimelineAsset
 今天我们再来看看Timeline中的Track，并且动手实现一个老年迪斯科场景。
 
@@ -254,3 +254,5 @@ Play and Enjoy It
 
 掌握了Timeline的系统设计理念后，我们基本上就能掌握Timeline，实现自己想要的效果了，希望大家能打开脑洞，用Timeline创造出更多好玩的东西来。
 另外视频中提到的PreviewMode我还没有非常明白，就先不写出来了，如果有兄弟知道的话，希望你能不吝赐教。
+
+### 这是[Demo的Github地址](https://github.com/aaBaO/DemoRepository)欢迎大家Fork过去参考TimelinePlayableAPI
