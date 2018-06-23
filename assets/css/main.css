@@ -491,9 +491,9 @@ pre code {
 }
 
 .wrapper {
-  max-width: 1250px;
+  /* max-width: 1250px; */
   position: relative;
-  margin: 0 auto;
+  /* margin: 0 auto; */
 }
 
 .post, .article-page {
@@ -549,7 +549,7 @@ pre code {
   text-align: center;
 }
 
-.about .cover-author-image {
+.cover-author-image {
   width: 100px;
   height: 100px;
   margin: 0 auto 10px;
@@ -559,11 +559,14 @@ pre code {
   background-color: #333030;
 }
 
+.wechat-official-account-qrcode {
+  margin:auto;
+  overflow: hidden;
+}
+
 .about img {
   width: 100%;
   height: 100%;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
   -webkit-transition: -webkit-transform 0.35s;
   transition: -webkit-transform 0.35s;
   -o-transition: transform 0.35s;
@@ -608,9 +611,13 @@ pre code {
   margin: 0 0 10px;
 }
 
+.article-page
+{
+  margin: auto;
+  max-width: 100%;
+}
+
 .content-box {
-  padding: 20px;
-  padding-left: 260px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -627,6 +634,9 @@ pre code {
   -webkit-align-items: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
+  margin-left: 240px;
+  padding: 2%;
+  background: #ffffff;
 }
 
 .contact .contact-title {
@@ -1013,6 +1023,7 @@ footer .copyright {
     -webkit-align-items: stretch;
         -ms-flex-align: stretch;
             align-items: stretch;
+    margin: auto;
   }
   .contact-title, .copyright {
     display: none;
